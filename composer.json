@@ -1,18 +1,18 @@
 {
-    "name": "tadiwapfachi/tempconv",
-    "description": "A simple Temperature converter\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Tadiwapfachi\\Tempconv\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Tadiwa Pfachi",
-            "email": "pfachitadiwanashedavid@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "onlypfachi/tempconv",
+  "description": "A simple Temperature converter\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Onlypfachi\\Tempconv\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "OnlyPfachi",
+      "email": "pfachitadiwanashedavid@gmail.com"
+    }
+  ],
+  "require": {}
 }

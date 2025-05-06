@@ -1,6 +1,6 @@
 <?php
 
-namespace Tadiwapfachi\Tempconv;
+namespace Onlypfachi\Tempconv;
 
 class TemperatureConverter
 {
